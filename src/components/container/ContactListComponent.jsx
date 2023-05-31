@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
-import { Contact } from '../../../models/Contact.class';
-import ContactComponent from '../ContactComponent';
+import { Contact } from '../../models/Contact.class';
+import ContactComponent from '../pure/ContactComponent';
 
-import '../../../styles/contact.scss';
-import ContactForm from '../forms/ContactForm';
+import '../../styles/contact.scss';
+import ContactForm from '../pure/forms/ContactForm';
 
 const ContactListComponent = () => {
 

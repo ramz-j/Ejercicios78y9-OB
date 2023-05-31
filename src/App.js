@@ -1,5 +1,6 @@
 import './App.css';
-import ContactListComponent from './components/pure/container/ContactListComponent';
+import ContactListComponent from './components/container/ContactListComponent';
+
 
 function App() {
   return (
